@@ -1,3 +1,5 @@
+# Quand on me demande de faire un pile ou face je dégaine le script.
+
 import random
 
 head = 'HEAD'
