@@ -1,4 +1,6 @@
+# A Really basic number guessing game !
 import random
+
 def random_number():
     return random.randint(1, 100)
     
